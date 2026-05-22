@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Strike Mobile FPS",
+  "description": "A premium, AAA-inspired, highly interactive mobile FPS game featuring a real-time 3D animated lobby, customizable operator skins, gunsmith weapons, high-performance 3D practice range, and custom HUD layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
